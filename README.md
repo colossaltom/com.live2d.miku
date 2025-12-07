@@ -1,4 +1,4 @@
-### Hatsune Miku in an Illustrator panel
+# Hatsune Miku in an Illustrator panel
 
 Adds live2D Hatsune Miku to her own Illustrator panel!!1
 ...thats it. She follows your mouse around watching what you do. Have fun.
@@ -16,7 +16,7 @@ https://github.com/hyperbrew/bolt-cep
 Hatsune Miku was added using a wonderfully simple plugin documented here:
 https://github.com/Konata09/Live2dOnWeb
 
-# Live2D
+### Live2D
 settings file located in:
 src/js/main/jsx/waifu-tips.js
 
