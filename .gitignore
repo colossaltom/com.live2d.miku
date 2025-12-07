@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+dist/cep
+dist/zxp
+dist-ssr
+*.local
+yarn-error.log
+.media
+.github
+src/js/main/model/houmuya
+src/js/main/model/paimon
+src/js/main/model/Rice
+src/js/main/model/shizuku
